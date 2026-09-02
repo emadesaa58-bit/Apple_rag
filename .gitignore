@@ -1,0 +1,11 @@
+.env
+credentials.json
+token_drive.pickle
+
+downloads/
+
+__pycache__/
+*.pyc
+
+.venv/
+venv/
