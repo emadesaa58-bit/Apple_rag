@@ -6,7 +6,7 @@ load_dotenv()
 # Gemini
 GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
 
-# Telegram
+# Telegramm
 TELEGRAM_BOT_TOKEN = os.getenv("TELEGRAM_BOT_TOKEN")
 
 # Redis
