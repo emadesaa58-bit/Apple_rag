@@ -20,6 +20,8 @@ GOOGLE_SHEET_ID = os.getenv("GOOGLE_SHEET_ID")
 REDIS_INDEX = "RAG_1"
 REDIS_KEY_PREFIX = "Apple_doc"
 
+
+
 # Gemini Models
 GEMINI_CHAT_MODEL = "models/gemini-3.5-flash-lite"
 GEMINI_SEARCH_MODEL = "models/gemini-flash-lite-latest"
